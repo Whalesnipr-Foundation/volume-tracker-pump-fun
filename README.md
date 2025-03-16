@@ -12,11 +12,8 @@ The **Pump Fun Volume Scanner** provides **real-time tracking** of market activi
 - ⏳ **5 min, 15 min, 30 min, and 1-hour volume trends**
 - 📊 **Total volume levels on Pump.fun at any given time**
 - 🔄 **Live updates** to track market movements in real time
-The Pump Fun Volume Scanner **tracks tokens** on **Pump.fun** in real time, analyzing:
-- 🔥 **Volume surges**
-- 💰 **Market cap growth**
-- 👥 **Holder count increases**
-- 📊 **Price movement trends**
+
+
 
 ### 🚀 Key Features:
 ✅ **Track real-time market activity** – See how much volume is flowing through Pump.fun at any moment.  
